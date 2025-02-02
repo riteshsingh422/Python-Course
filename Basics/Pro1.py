@@ -24,5 +24,12 @@ print(type(name),type(age),type(price))
 #Print Sum of 2 variable
 a= 20
 b=30
-
 print(a+b)
+
+#Comments In python
+
+#single line comment
+
+"""Multi Line 
+comment
+"""
